@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/formik-and-yup/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/formik-and-yup/static/js/main.9db558e7.chunk.js",
+    "main.js.map": "/formik-and-yup/static/js/main.9db558e7.chunk.js.map",
+    "runtime-main.js": "/formik-and-yup/static/js/runtime-main.85a46f11.js",
+    "runtime-main.js.map": "/formik-and-yup/static/js/runtime-main.85a46f11.js.map",
+    "static/js/2.fbdf51de.chunk.js": "/formik-and-yup/static/js/2.fbdf51de.chunk.js",
+    "static/js/2.fbdf51de.chunk.js.map": "/formik-and-yup/static/js/2.fbdf51de.chunk.js.map",
+    "static/js/3.ff849d9e.chunk.js": "/formik-and-yup/static/js/3.ff849d9e.chunk.js",
+    "static/js/3.ff849d9e.chunk.js.map": "/formik-and-yup/static/js/3.ff849d9e.chunk.js.map",
+    "index.html": "/formik-and-yup/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/formik-and-yup/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fbdf51de.chunk.js.LICENSE.txt": "/formik-and-yup/static/js/2.fbdf51de.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/formik-and-yup/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85a46f11.js",
+    "static/js/2.fbdf51de.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9db558e7.chunk.js"
+  ]
+}
