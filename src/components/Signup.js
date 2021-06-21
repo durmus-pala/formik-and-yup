@@ -38,7 +38,7 @@ export const Signup = () => {
       .oneOf([Yup.ref("password"), null], "Password must match")
       .required("Confirming password is required"),
 
-    aggreeToTerms: Yup.string()
+    aggreeToTerms: Yup.boolean()
       .label("Terms")
       .test(
         "aggreeToTerms",
